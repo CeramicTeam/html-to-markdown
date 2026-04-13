@@ -1,4 +1,4 @@
-module github.com/JohannesKaufmann/html-to-markdown/v2
+module github.com/CeramicTeam/html-to-markdown/v2
 
 go 1.24.0
 
